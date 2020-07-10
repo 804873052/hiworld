@@ -3,5 +3,7 @@ public class HiWorld {
         System.out.println("Hi World!");
 
         System.out.println("test");
+
+        System.out.println("what?");
     }
 }
